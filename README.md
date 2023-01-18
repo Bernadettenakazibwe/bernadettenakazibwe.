@@ -1,4 +1,4 @@
-<img src="image1.jpg" >
+<img src="Image 1.jpg" >
 
 In the today’s world where the scientists are active day and night using their brain power to innovate new technologies in many fields of which health field is part. This has both positive and negative effects on the health sector, but according to the health workers, this has made provision of better and standard health services to the patient easy and faster.
 
