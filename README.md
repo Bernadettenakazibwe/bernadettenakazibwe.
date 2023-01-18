@@ -2,17 +2,18 @@
 
 In the today’s world where the scientists are active day and night using their brain power to innovate new technologies in many fields of which health field is part. This has both positive and negative effects on the health sector, but according to the health workers, this has made provision of better and standard health services to the patient easy and faster.
 
-** Medical Technologies.
+## **Medical Technologies.**
+
 Technology has been applied in many medical procedures on external human body, internal human body, manufacturing drugs and even during their administrations, during surgeries and many other procedures. In the past years, there has been many technological advancements in the medical field where many devices have been innovated and even many procedures have been digitalized, and some of the devices include the following below.
 
-1. Wearable devices and smartphones
+1. **Wearable devices and smartphones**
 Wearables are body accessory electronic devices that people wear today. The most example of te wearables are the smartwatches. The wearables vary in the function, and even costs but they are very import to humans today. They have reduced the workload of the physicians in hospitals as some procedurs like taking the vital obeservations like the Heart rate, Arterial bllood pressure, body temperature, physical movements,respiratory rate can be done using wearable device by the holders no matter where they might be. This has benefited alot the old patients as they nolonger need to move to the hospital just for the physicians to measure their vital signs. It has also greatly benefited the patients with chronic conditions like diabetes, asthma, heart disease since the wearable devices provide them true information about their health status in the real time frame.
 
 Smartphones are part of the technological innovations today. These have helped so much to improve the health of the people as they help the people to download medical apps which have been used alot by the patients to monitor their health statuses. Medical apps have enabled proper handling of and easy access to the patients' health records in thehospitals which allows constant folow up on the patients' health care. Also, the se apps have provide the health workers with wealth information about different diseases and conditions, their signs and symptoms, diagnosis and treatent so, nowadays Doctors do not have to carry big textbooks during ward rounds. With smart phones, the patients are able to connect with other patients via social media platforms and they discuss the different aspects like the signs and symptoms of their diseases, effectiveness of the different treatment procedures their doctors use,and also undergo guidance and counselling. Some of the online communities that bring patients together and give them suport include American Cancer Society, POZ Community Forums and The Well Project for HIV patients, Uganda Natioanal Association of Cerebral Palsy and Cerebral Palsy Society of Kenya.
 
 <img src="Imagew.png" >
 
-2.Imaging Techniques.
+2. **Imaging Techniques.**
 These are procedures techniques used in the hospitals to produce images of the inner parts of the human body which images are used to by the physicians to diagnonise,and treat different conditions. The imaging techiques include;
 
 Radiography:
@@ -29,15 +30,12 @@ This technique provides more detailed image compared to the above mentioned tech
 
 Some the other digital devices include the Digital Diagnostic ECG System, Digital Ultrasound Prob Digital Medical Camera, Digital Stetoscope, Dental Camera, Ventilators, Anaesthesia devices.
 
-For more information about the Imaging machinery, visit the links below.
-
-Machines used in hospitals
-Some of other digital medical equipment
 
 <img src="Image 1.png" >
 
 
-Impacts of applying technology in the health field.
+## **Impacts of applying technology in the health field.**
+
 Digital health has greatly improved the health sector in some of the ways as staed below.
 
 Reduction of errors as a result of medical records.
@@ -48,7 +46,11 @@ This is done in various ways. Forexample, through medical apps which have been u
 
 Through medical apps, even patients in the remote areas can receive high quality healthcare.
 
-In conclusion, digital health is still developing. As per the World Health Global strategy, digital health is to make the high quality health care easily accessible in high icome, middle income and even low income countries between the 2020 and 2025 so that all countries provide strong health services to their citizens.
+## **Conclusion**
+
+Digital health is still developing. As per the World Health Global strategy, digital health is to make the high quality health care easily accessible in high icome, middle income and even low income countries between the 2020 and 2025 so that all countries provide strong health services to their citizens.
+
+## **References**
 
 
 
