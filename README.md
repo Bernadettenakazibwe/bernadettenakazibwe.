@@ -7,6 +7,7 @@ In the today’s world where the scientists are active day and night using their
 Technology has been applied in many medical procedures on external human body, internal human body, manufacturing drugs and even during their administrations, during surgeries and many other procedures. In the past years, there has been many technological advancements in the medical field where many devices have been innovated and even many procedures have been digitalized, and some of the devices include the following below.
 
 1. **Wearable devices and smartphones**
+
 Wearables are body accessory electronic devices that people wear today. The most example of te wearables are the smartwatches. The wearables vary in the function, and even costs but they are very import to humans today. They have reduced the workload of the physicians in hospitals as some procedurs like taking the vital obeservations like the Heart rate, Arterial bllood pressure, body temperature, physical movements,respiratory rate can be done using wearable device by the holders no matter where they might be. This has benefited alot the old patients as they nolonger need to move to the hospital just for the physicians to measure their vital signs. It has also greatly benefited the patients with chronic conditions like diabetes, asthma, heart disease since the wearable devices provide them true information about their health status in the real time frame.
 
 Smartphones are part of the technological innovations today. These have helped so much to improve the health of the people as they help the people to download medical apps which have been used alot by the patients to monitor their health statuses. Medical apps have enabled proper handling of and easy access to the patients' health records in thehospitals which allows constant folow up on the patients' health care. Also, the se apps have provide the health workers with wealth information about different diseases and conditions, their signs and symptoms, diagnosis and treatent so, nowadays Doctors do not have to carry big textbooks during ward rounds. With smart phones, the patients are able to connect with other patients via social media platforms and they discuss the different aspects like the signs and symptoms of their diseases, effectiveness of the different treatment procedures their doctors use,and also undergo guidance and counselling. Some of the online communities that bring patients together and give them suport include American Cancer Society, POZ Community Forums and The Well Project for HIV patients, Uganda Natioanal Association of Cerebral Palsy and Cerebral Palsy Society of Kenya.
@@ -14,6 +15,8 @@ Smartphones are part of the technological innovations today. These have helped s
 <img src="Imagew.png" >
 
 2. **Imaging Techniques.**
+
+
 These are procedures techniques used in the hospitals to produce images of the inner parts of the human body which images are used to by the physicians to diagnonise,and treat different conditions. The imaging techiques include;
 
 Radiography:
