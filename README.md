@@ -68,3 +68,7 @@ https://www.medicalnewstoday.com/articles/146309
 https://www.inofab.health/article/5-benefits-of-digital-health-systems
 
 https://www.inofab.health/article/5-benefits-of-digital-health-systems
+
+https://builtin.com/wearables
+
+https://www.ncbi.nlm.nih.gov/books/NBK541905/#:~:text=The%20World%20Health%20Assembly%20Resolution%20on%20Digital%20Health,aims%20of%20the%20Sustainable%20Development%20Goals%20%28SDGs%29%20%284%29.
