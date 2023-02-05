@@ -55,5 +55,16 @@ Digital health is still developing. As per the World Health Global strategy, dig
 
 ## **References**
 
+https://www.healthline.com/health/ct-scan#procedure
 
+https://technologymagazine.com/ai-and-machine-learning/top-10-wearable-devices-help-during-covid-19
 
+https://www.sciencedirect.com/topics/engineering/wearable-device
+
+https://www.healthline.com/health/ct-scan#what-is-it
+
+https://www.medicalnewstoday.com/articles/146309
+
+https://www.inofab.health/article/5-benefits-of-digital-health-systems
+
+https://www.inofab.health/article/5-benefits-of-digital-health-systems
