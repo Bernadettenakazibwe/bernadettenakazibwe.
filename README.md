@@ -39,7 +39,7 @@ Some the other digital devices include the Digital Diagnostic ECG System, Digita
 <img src="Image 1.png" >
 
 
-## **Impacts of applying technology in the health field. **
+## **Impacts of applying technology in the health field.**
 
 Digital health has greatly improved the health sector in some of the ways as stated below.
 
