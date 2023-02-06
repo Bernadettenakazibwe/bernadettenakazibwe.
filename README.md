@@ -4,7 +4,7 @@
 
 In the today’s world where the scientists are active day and night using their brain power to innovate new technologies in many fields of which health sector is part. This has both positive and negative effects on the health sector, but according to the health workers, this advancement has been mostly beneficial because it has made provision of better and standard health services to the patient easy and faster.
 
-## **Medical Technologies. **
+## **Medical Technologies.**
 
 Technology has been applied in many medical procedures on external human body, internal human body, manufacturing drugs and even during their administrations, during surgeries and many other procedures. In the past years, most procedures where very had to perform for example the invasive surgical procedures because there was no machinery to use. In this digital era, there has been many technological advancements in the medical field where many devices have been innovated and even many procedures have been digitalized, and some of the devices include the following below.
 
